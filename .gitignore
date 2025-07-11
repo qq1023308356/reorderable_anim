@@ -1,0 +1,10 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+.idea/
+reorderable_anim.iml
+pubspec.lock
+
+# Conventional directory for build output.
+build/
+/example/windows/
